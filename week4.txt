@@ -1,0 +1,46 @@
+<html>
+        <head>
+            <style>
+                .mydiv1 {
+                    border: 6px outset pink;
+                    background-color: aquamarine;
+                    text-align: center;
+                }   
+
+
+            
+                .mydiv2 {
+                    border: 6px outset rgb(221, 192, 255);
+                    background-color: rgb(195, 255, 127);
+                    text-align: center;
+                }
+                body{
+
+                    background-image: url("car.jpg");
+                    background-size: cover;
+                }
+                h2{
+                    color: #000000;
+                }
+                </style>
+                </head>
+                <body>
+              <h2>Div 1</h2>
+                    <div class="mydiv1">
+        <h3>HTML</h3>
+        <i>Html is a coding language.Html stands for hype text markup language.HTML is to a website what a solid foundation is to a house. Without HTML code, web developers wouldn’t have anything to build on.</i>
+        </div>
+         
+        <h2>Div 2</h2>
+        <div class="mydiv2">
+            <h3>CSS</h3>
+            <b>cascading style sheets is a style sheet language used for specifying the presenation and styling of a document written in markup language</b> 
+</div>
+
+
+    </body>
+   
+    
+    
+
+        </html>
